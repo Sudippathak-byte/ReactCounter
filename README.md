@@ -40,3 +40,6 @@ As a fresher learning React, this project helped me:
 Understand how React works.
 Practice using the useState hook.
 Build a functional and interactive app from scratch.
+
+
+![Screenshot 2024-11-29 201721](https://github.com/user-attachments/assets/725b76ad-8d0a-478d-b973-21eafcbd90e2)
